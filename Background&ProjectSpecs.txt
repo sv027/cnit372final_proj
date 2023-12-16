@@ -1,0 +1,67 @@
+Background
+
+	During the first portion of our project, our
+	group identified a selection of users. The
+	five user groups most closely affiliated with
+	YouTube were listed. These included: YouTube
+	staff; executives, content creators,
+	advertisers , and general users. General users
+	were defined as anyone whose primary activity
+	on the platform was dominated by activities
+	outside of uploading content. This included
+	viewing videos and subscribing to creators.
+	YouTube users generate the largest amount of
+	data. YouTube makes use of several “signal
+	tools” that allow users to indicate their
+	preferences and opinions on content. Examples
+	of user signals include the comments section
+	and the likes tool. User signal data is used
+	to shape YouTube’s larger landscape and
+	functions. For example: YouTube’s trending
+	data homepage displays a collection of the
+	most popular tables in a given region. Videos
+	are selected based on likes, shares, and view
+	count. Each user’s personal recommended tab is
+	created based on data relating to previously
+	watched and liked videos. After understandi ng
+	how user signal data affects YouTube’s
+	direction as a platform; our group selected a
+	project goal. The project goal was as defined:
+	how do trends in user interaction change over
+	time? For our project, we chose to focus on
+	two general areas. The first area of focus is:
+	what types of content have users interacted
+	with, over time? Areas of interest include
+	determining the most popular creators at a
+	given time and comparing the popularity of
+	longer/ short-form content. The second area of
+	focus was have methods of user interaction
+	changed over time. This included understandi
+	ng the frequency of usage of tools such as the
+	“comments” and “likes” tools. Our queries
+	would help users understand how factors
+	relating to video category; length; and
+	hashtags, would affect user interaction s. Our
+	queries also focused on understandi ng which
+	videos received the most positive interaction
+	. Some changes were implemented between the
+	presentatio n and the final submission.
+	Specificall y, the table creation scripts were
+	altered, and the queries were modified to
+	answer slightly different questions. When the
+	presentatio n was drafted, the number of
+	tables and rows utilized did not meet the
+	project requirement s. Adjustments were made
+	due to a larger amount of data. 
+	
+	
+Project 
+--Contributions
+/*
+The team developed the GitHub respritory, imported the data and developed the database table.
+Table creation and population was a team effort. 
+Quinn covered question 2, 4, 6.
+Li covered questions 7, 9.
+Sindhu covered questions  8, 7, 10, 11
+We all discussed how we where going to distribute the work and which questions we were going to cover on this milestone.
+*/
